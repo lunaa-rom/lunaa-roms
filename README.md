@@ -1,7 +1,7 @@
 # ALL Based F.0X Version
 # Main Recovery
-| LOS Recovery | test |
-|----:|:----:|
+| LOS Recovery | 20-02-2023 | [Download](https://github.com/lunaa-rom/lunaa-roms/releases/download/Recovery/LOS.Recovery.lunaa.zip) |
+|----:|:----:|:----:|
 # lunaa ROMs
 | ROMs | Version | Date | Download |
 |:----:|:----:|:----:|:----:|
